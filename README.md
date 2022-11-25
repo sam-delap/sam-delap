@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sam-delap
 - 👀 I’m interested in data science/visualization and computer image processing, especially as it relates to biomechanical datasets 
-- 🌱 I’m currently learning DeepLabCut/Python, R, and Igor Pro
+- 🌱 I’m currently learning DeepLabCut/Python
 - 📫 Email me at sjcdelap@gmail.com
 
 <!---
