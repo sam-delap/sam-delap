@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sam-delap
-- 👀 I’m interested in data science/visualization and computer image processing, especially as it relates to biomechanical datasets 
-- 🌱 I’m currently learning DeepLabCut/Python
+- 👀 I’m interested in IaC-driven cloud engineering (especially in DoD spaces), neovim, fantasy football, and machine learning-assisted XROMM.
+- 🌱 I’m currently learning Kubernetes & Python web scraping.
 - 📫 Email me at sjcdelap@gmail.com
 
 <!---
